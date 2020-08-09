@@ -1,18 +1,18 @@
 
 <a href="https://github.com/crocs-muni/ECTester">
-  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/ectester.png" alt="ECTester" style="width: 70%"/>
+  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/ectester.png" alt="ECTester" width="70%"/>
 </a>
 
 A toolkit for testing elliptic curve cryptography implementations on the JavaCard platform and in software libraries.
 
 <a href="https://github.com/J08nY/ecgen">
-  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/ecgen.png" alt="ecgen" style="width: 70%"/>
+  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/ecgen.png" alt="ecgen" width="70%"/>
 </a>
 
 A tool for generating elliptic curve domain parameters.
 
 <a href="https://github.com/J08nY/pyecsca">
-  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/pyecsca.png" alt="pyecsca" style="width: 70%"/>
+  <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/pyecsca.png" alt="pyecsca" width="70%"/>
 </a>
 
 A toolkit for reverse engineering of black-box elliptic curve cryptography implementations using side-channel analysis.
