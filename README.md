@@ -22,6 +22,14 @@
 
 <p align="center">A toolkit for reverse engineering of black-box elliptic curve cryptography implementations using side-channel analysis.</p>
 
+<a href="https://github.com/crocs-muni/minerva" align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/minerva.png" alt="minerva" width="60%" align="center"/>
+  </p>
+</a>
+
+<p align="center">A group of side-channel vulnerabilities in implementations of ECDSA in programmable smart cards and cryptographic software libraries.</p>
+
 <!--
 **J08nY/J08nY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
