@@ -32,7 +32,7 @@
 
 <a href="https://github.com/crocs-muni/sec-certs" align="center">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/seccerts.png" alt="seccerts" width="60%" align="center"/>
+    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/sec-certs.png" alt="sec-certs" width="60%" align="center"/>
   </p>
 </a>
 
@@ -45,6 +45,15 @@
 </a>
 
 <p align="center">A website collecting constant-timeness analysis tools. Now contains more than 48 tools, and includes tutorials for some of them.</p>
+
+<a href="https://hwsec.neuromancer.sk" align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/hwsec.png" alt="Hardware Security" width="30%" align="center"/>
+  </p>
+</a>
+
+<p align="center">A master's course in Hardware Security, materials available under CC BY-SA.</p>
+
 
 <br/>
 <hr/>
