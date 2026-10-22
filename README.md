@@ -46,9 +46,10 @@
 
 <p align="center">A website collecting constant-timeness analysis tools. Now contains more than 48 tools, and includes tutorials for some of them.</p>
 
+<br/>
 <a href="https://hwsec.neuromancer.sk" align="center">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/hwsec.png" alt="Hardware Security" width="30%" align="center"/>
+    <img src="https://raw.githubusercontent.com/J08nY/J08nY/master/hwsec.png" alt="Hardware Security" width="60%" align="center"/>
   </p>
 </a>
 
